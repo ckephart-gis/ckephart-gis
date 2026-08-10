@@ -1,16 +1,13 @@
-## Hi there 👋
+# GIS Portfolio
 
-<!--
-**ckephart-gis/ckephart-gis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal portfolio site for Chris Kephart, GISP, hosted free on GitHub Pages.
 
-Here are some ideas to get you started:
+See SETUP.md for full deployment instructions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Structure
+- `index.html` — homepage (about, credentials, project grid, contact)
+- `css/style.css` — all styling
+- `js/demo-map.js` — Leaflet demo map used on the annotation-cartography project page
+- `projects/annotation-cartography.html` — full example case study (done)
+- `projects/template.html` — copy this to add new projects
+- `assets/` — put resume.pdf and any screenshots here
