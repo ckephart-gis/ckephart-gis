@@ -1,6 +1,6 @@
 # GIS Portfolio
 
-Personal portfolio site for Chris Kephart, GISP, hosted free on GitHub Pages.
+Personal portfolio site for Chris Kephart, GISP.
 
 See SETUP.md for full deployment instructions.
 
